@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transceiver</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_led_control">Vehicle Controller</string>
+</resources>
